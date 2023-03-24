@@ -1,0 +1,3553 @@
+{
+  "items" : [ {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6yXBFHhojjdwKoop55NsHf",
+        "id" : "6yXBFHhojjdwKoop55NsHf",
+        "name" : "Mild Orange",
+        "type" : "artist",
+        "uri" : "spotify:artist:6yXBFHhojjdwKoop55NsHf"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4jaLT2amEyHRGz1EdGyvUy"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4jaLT2amEyHRGz1EdGyvUy",
+      "id" : "4jaLT2amEyHRGz1EdGyvUy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738db9be88181b0684bbe2d5af",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028db9be88181b0684bbe2d5af",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518db9be88181b0684bbe2d5af",
+        "width" : 64
+      } ],
+      "name" : "Foreplay",
+      "release_date" : "2018-04-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:4jaLT2amEyHRGz1EdGyvUy"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6yXBFHhojjdwKoop55NsHf",
+      "id" : "6yXBFHhojjdwKoop55NsHf",
+      "name" : "Mild Orange",
+      "type" : "artist",
+      "uri" : "spotify:artist:6yXBFHhojjdwKoop55NsHf"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 284515,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NZAM01800657"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2kcqgLNIjps2wDjHw7vdtJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2kcqgLNIjps2wDjHw7vdtJ",
+    "id" : "2kcqgLNIjps2wDjHw7vdtJ",
+    "is_local" : false,
+    "name" : "Selfish Lover",
+    "popularity" : 38,
+    "preview_url" : null,
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:2kcqgLNIjps2wDjHw7vdtJ"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6yXBFHhojjdwKoop55NsHf",
+        "id" : "6yXBFHhojjdwKoop55NsHf",
+        "name" : "Mild Orange",
+        "type" : "artist",
+        "uri" : "spotify:artist:6yXBFHhojjdwKoop55NsHf"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4jaLT2amEyHRGz1EdGyvUy"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4jaLT2amEyHRGz1EdGyvUy",
+      "id" : "4jaLT2amEyHRGz1EdGyvUy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738db9be88181b0684bbe2d5af",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028db9be88181b0684bbe2d5af",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518db9be88181b0684bbe2d5af",
+        "width" : 64
+      } ],
+      "name" : "Foreplay",
+      "release_date" : "2018-04-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:4jaLT2amEyHRGz1EdGyvUy"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6yXBFHhojjdwKoop55NsHf",
+      "id" : "6yXBFHhojjdwKoop55NsHf",
+      "name" : "Mild Orange",
+      "type" : "artist",
+      "uri" : "spotify:artist:6yXBFHhojjdwKoop55NsHf"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 197224,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NZAM01800538"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5txzKcySsIIIrsciNliAoL"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5txzKcySsIIIrsciNliAoL",
+    "id" : "5txzKcySsIIIrsciNliAoL",
+    "is_local" : false,
+    "name" : "Some Feeling",
+    "popularity" : 53,
+    "preview_url" : null,
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:5txzKcySsIIIrsciNliAoL"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6yXBFHhojjdwKoop55NsHf",
+        "id" : "6yXBFHhojjdwKoop55NsHf",
+        "name" : "Mild Orange",
+        "type" : "artist",
+        "uri" : "spotify:artist:6yXBFHhojjdwKoop55NsHf"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4jaLT2amEyHRGz1EdGyvUy"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4jaLT2amEyHRGz1EdGyvUy",
+      "id" : "4jaLT2amEyHRGz1EdGyvUy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738db9be88181b0684bbe2d5af",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028db9be88181b0684bbe2d5af",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518db9be88181b0684bbe2d5af",
+        "width" : 64
+      } ],
+      "name" : "Foreplay",
+      "release_date" : "2018-04-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:4jaLT2amEyHRGz1EdGyvUy"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6yXBFHhojjdwKoop55NsHf",
+      "id" : "6yXBFHhojjdwKoop55NsHf",
+      "name" : "Mild Orange",
+      "type" : "artist",
+      "uri" : "spotify:artist:6yXBFHhojjdwKoop55NsHf"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 280957,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NZAM01800658"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5gQjx44rEiwJ1Fb85BVrZ8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5gQjx44rEiwJ1Fb85BVrZ8",
+    "id" : "5gQjx44rEiwJ1Fb85BVrZ8",
+    "is_local" : false,
+    "name" : "Losing Time",
+    "popularity" : 31,
+    "preview_url" : null,
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:5gQjx44rEiwJ1Fb85BVrZ8"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1hzfo8twXdOegF3xireCYs",
+        "id" : "1hzfo8twXdOegF3xireCYs",
+        "name" : "Milky Chance",
+        "type" : "artist",
+        "uri" : "spotify:artist:1hzfo8twXdOegF3xireCYs"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4wW0gNfB05ae2hUqr22XWL",
+      "id" : "4wW0gNfB05ae2hUqr22XWL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e7b4edb81735e39370600c50",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e7b4edb81735e39370600c50",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e7b4edb81735e39370600c50",
+        "width" : 64
+      } ],
+      "name" : "Synchronize",
+      "release_date" : "2022-03-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4wW0gNfB05ae2hUqr22XWL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1hzfo8twXdOegF3xireCYs",
+      "id" : "1hzfo8twXdOegF3xireCYs",
+      "name" : "Milky Chance",
+      "type" : "artist",
+      "uri" : "spotify:artist:1hzfo8twXdOegF3xireCYs"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 164576,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "DEVP22200014"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6Ql7rNuoP90aIdgwQkPYBP",
+    "id" : "6Ql7rNuoP90aIdgwQkPYBP",
+    "is_local" : false,
+    "name" : "Synchronize",
+    "popularity" : 72,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ef7a3651c15992238beb14191c7f5219918247e1?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6Ql7rNuoP90aIdgwQkPYBP"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6EB8VE9f7Ut6NOgviN6gDW",
+        "id" : "6EB8VE9f7Ut6NOgviN6gDW",
+        "name" : "Dawid Podsiadło",
+        "type" : "artist",
+        "uri" : "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3uRGqDcXI9lulUpYZ3ZFvj",
+      "id" : "3uRGqDcXI9lulUpYZ3ZFvj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737b0be3508536803e5ff5e0bb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027b0be3508536803e5ff5e0bb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517b0be3508536803e5ff5e0bb",
+        "width" : 64
+      } ],
+      "name" : "Lata Dwudzieste",
+      "release_date" : "2022-10-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3uRGqDcXI9lulUpYZ3ZFvj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EB8VE9f7Ut6NOgviN6gDW",
+      "id" : "6EB8VE9f7Ut6NOgviN6gDW",
+      "name" : "Dawid Podsiadło",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 212626,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "PLL892200017"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/46AOp2btoGZVXeKSQvsFbZ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/46AOp2btoGZVXeKSQvsFbZ",
+    "id" : "46AOp2btoGZVXeKSQvsFbZ",
+    "is_local" : false,
+    "name" : "WiRUS",
+    "popularity" : 62,
+    "preview_url" : "https://p.scdn.co/mp3-preview/acf3d71b8dd54927671307d416b9a5bcb6b2f927?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:46AOp2btoGZVXeKSQvsFbZ"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/43yekIowVCHkR6TGGg9gSp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/43yekIowVCHkR6TGGg9gSp",
+        "id" : "43yekIowVCHkR6TGGg9gSp",
+        "name" : "Jan-Rapowanie",
+        "type" : "artist",
+        "uri" : "spotify:artist:43yekIowVCHkR6TGGg9gSp"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6s6xU2GQCElEekW1d566Ri"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6s6xU2GQCElEekW1d566Ri",
+      "id" : "6s6xU2GQCElEekW1d566Ri",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27352c5fd0d4ce5fad0ece0dc15",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0252c5fd0d4ce5fad0ece0dc15",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485152c5fd0d4ce5fad0ece0dc15",
+        "width" : 64
+      } ],
+      "name" : "Bufor",
+      "release_date" : "2022-03-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 17,
+      "type" : "album",
+      "uri" : "spotify:album:6s6xU2GQCElEekW1d566Ri"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/43yekIowVCHkR6TGGg9gSp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/43yekIowVCHkR6TGGg9gSp",
+      "id" : "43yekIowVCHkR6TGGg9gSp",
+      "name" : "Jan-Rapowanie",
+      "type" : "artist",
+      "uri" : "spotify:artist:43yekIowVCHkR6TGGg9gSp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6o7xoNMeAUgi1SVl9rHYNk",
+      "id" : "6o7xoNMeAUgi1SVl9rHYNk",
+      "name" : "Kortez",
+      "type" : "artist",
+      "uri" : "spotify:artist:6o7xoNMeAUgi1SVl9rHYNk"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 280954,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "PLS282200027"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6xS6wo487HNu40vh9e3fql"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6xS6wo487HNu40vh9e3fql",
+    "id" : "6xS6wo487HNu40vh9e3fql",
+    "is_local" : false,
+    "name" : "boję się",
+    "popularity" : 47,
+    "preview_url" : "https://p.scdn.co/mp3-preview/21567be4e91924c9994ea991dbba7086bbf37cf4?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6xS6wo487HNu40vh9e3fql"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/46NCqFl8vhQZD77y7XkvJs",
+        "id" : "46NCqFl8vhQZD77y7XkvJs",
+        "name" : "goosetaf",
+        "type" : "artist",
+        "uri" : "spotify:artist:46NCqFl8vhQZD77y7XkvJs"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1ZyUXvaBXUsIZ3JD6jYGkt",
+        "id" : "1ZyUXvaBXUsIZ3JD6jYGkt",
+        "name" : "Nyck Caution",
+        "type" : "artist",
+        "uri" : "spotify:artist:1ZyUXvaBXUsIZ3JD6jYGkt"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4rhZUbGllLmyrhbB9g2ZbX",
+        "id" : "4rhZUbGllLmyrhbB9g2ZbX",
+        "name" : "Timothy Infinite",
+        "type" : "artist",
+        "uri" : "spotify:artist:4rhZUbGllLmyrhbB9g2ZbX"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2Fsfmze6EFMeWUJ4BObwkK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2Fsfmze6EFMeWUJ4BObwkK",
+      "id" : "2Fsfmze6EFMeWUJ4BObwkK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27357edb410b250d7953296272d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0257edb410b250d7953296272d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485157edb410b250d7953296272d",
+        "width" : 64
+      } ],
+      "name" : "Far Away From Me",
+      "release_date" : "2022-02-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2Fsfmze6EFMeWUJ4BObwkK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/46NCqFl8vhQZD77y7XkvJs",
+      "id" : "46NCqFl8vhQZD77y7XkvJs",
+      "name" : "goosetaf",
+      "type" : "artist",
+      "uri" : "spotify:artist:46NCqFl8vhQZD77y7XkvJs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1ZyUXvaBXUsIZ3JD6jYGkt",
+      "id" : "1ZyUXvaBXUsIZ3JD6jYGkt",
+      "name" : "Nyck Caution",
+      "type" : "artist",
+      "uri" : "spotify:artist:1ZyUXvaBXUsIZ3JD6jYGkt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4rhZUbGllLmyrhbB9g2ZbX",
+      "id" : "4rhZUbGllLmyrhbB9g2ZbX",
+      "name" : "Timothy Infinite",
+      "type" : "artist",
+      "uri" : "spotify:artist:4rhZUbGllLmyrhbB9g2ZbX"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 175786,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "QMKSC2200001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4Ig9sZHKPIVEEn13OeWSuo"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4Ig9sZHKPIVEEn13OeWSuo",
+    "id" : "4Ig9sZHKPIVEEn13OeWSuo",
+    "is_local" : false,
+    "name" : "Far Away From Me",
+    "popularity" : 17,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0f666bed6cb59db41f56ed5259ec9e7a16671cc2?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4Ig9sZHKPIVEEn13OeWSuo"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6WFDpw4u23uSpon4BHvFRn",
+        "id" : "6WFDpw4u23uSpon4BHvFRn",
+        "name" : "Cat Burns",
+        "type" : "artist",
+        "uri" : "spotify:artist:6WFDpw4u23uSpon4BHvFRn"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7KfrkeW0bJx9w3Wak4PGX2",
+      "id" : "7KfrkeW0bJx9w3Wak4PGX2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a015434511262e2a0fafccdc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a015434511262e2a0fafccdc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a015434511262e2a0fafccdc",
+        "width" : 64
+      } ],
+      "name" : "go",
+      "release_date" : "2020-07-31",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7KfrkeW0bJx9w3Wak4PGX2"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6WFDpw4u23uSpon4BHvFRn",
+      "id" : "6WFDpw4u23uSpon4BHvFRn",
+      "name" : "Cat Burns",
+      "type" : "artist",
+      "uri" : "spotify:artist:6WFDpw4u23uSpon4BHvFRn"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 215000,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "GBKPL2013050"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4VtRHZ4tBDHaWltVAytlLY",
+    "id" : "4VtRHZ4tBDHaWltVAytlLY",
+    "is_local" : false,
+    "name" : "go",
+    "popularity" : 76,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d3170ce7600d654837a05e419f6159ff6f2c22b1?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4VtRHZ4tBDHaWltVAytlLY"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5w95yjTVzXm9Z630AT2QX3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5w95yjTVzXm9Z630AT2QX3",
+        "id" : "5w95yjTVzXm9Z630AT2QX3",
+        "name" : "Stach Bukowski",
+        "type" : "artist",
+        "uri" : "spotify:artist:5w95yjTVzXm9Z630AT2QX3"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4cfzJhopKt30VYjoxfBp9L"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4cfzJhopKt30VYjoxfBp9L",
+      "id" : "4cfzJhopKt30VYjoxfBp9L",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273678bcc895eae0e79284d0d89",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02678bcc895eae0e79284d0d89",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851678bcc895eae0e79284d0d89",
+        "width" : 64
+      } ],
+      "name" : "Chłodno",
+      "release_date" : "2021-04-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4cfzJhopKt30VYjoxfBp9L"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5w95yjTVzXm9Z630AT2QX3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5w95yjTVzXm9Z630AT2QX3",
+      "id" : "5w95yjTVzXm9Z630AT2QX3",
+      "name" : "Stach Bukowski",
+      "type" : "artist",
+      "uri" : "spotify:artist:5w95yjTVzXm9Z630AT2QX3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6VQUyaRqUl5BCTJS0cCEki",
+      "id" : "6VQUyaRqUl5BCTJS0cCEki",
+      "name" : "KIWI",
+      "type" : "artist",
+      "uri" : "spotify:artist:6VQUyaRqUl5BCTJS0cCEki"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 157070,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "PLB172100133"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2dVW1T0XjYLWyg4PFiWeYC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2dVW1T0XjYLWyg4PFiWeYC",
+    "id" : "2dVW1T0XjYLWyg4PFiWeYC",
+    "is_local" : false,
+    "name" : "Chłodno",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cbd8126a32dd0c265eaf1b75784aa0d7ce48a99b?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2dVW1T0XjYLWyg4PFiWeYC"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4SdIXLzfabqU61iK7SnKAU",
+        "id" : "4SdIXLzfabqU61iK7SnKAU",
+        "name" : "G Flip",
+        "type" : "artist",
+        "uri" : "spotify:artist:4SdIXLzfabqU61iK7SnKAU"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+        },
+        "href" : "https://api.spotify.com/v1/artists/06vRrrjT3DBRkhBlXoBdYj",
+        "id" : "06vRrrjT3DBRkhBlXoBdYj",
+        "name" : "Lauren Sanderson",
+        "type" : "artist",
+        "uri" : "spotify:artist:06vRrrjT3DBRkhBlXoBdYj"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2ZPgzxiWsWCmCaC9jzNumu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2ZPgzxiWsWCmCaC9jzNumu",
+      "id" : "2ZPgzxiWsWCmCaC9jzNumu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b9136e94d7e75b27db04df91",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b9136e94d7e75b27db04df91",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b9136e94d7e75b27db04df91",
+        "width" : 64
+      } ],
+      "name" : "GAY 4 ME (feat. Lauren Sanderson)",
+      "release_date" : "2022-02-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2ZPgzxiWsWCmCaC9jzNumu"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4SdIXLzfabqU61iK7SnKAU",
+      "id" : "4SdIXLzfabqU61iK7SnKAU",
+      "name" : "G Flip",
+      "type" : "artist",
+      "uri" : "spotify:artist:4SdIXLzfabqU61iK7SnKAU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+      },
+      "href" : "https://api.spotify.com/v1/artists/06vRrrjT3DBRkhBlXoBdYj",
+      "id" : "06vRrrjT3DBRkhBlXoBdYj",
+      "name" : "Lauren Sanderson",
+      "type" : "artist",
+      "uri" : "spotify:artist:06vRrrjT3DBRkhBlXoBdYj"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 174739,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "AUFF02200031"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1ZpcR68PKaoz8DpQDRqFEE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1ZpcR68PKaoz8DpQDRqFEE",
+    "id" : "1ZpcR68PKaoz8DpQDRqFEE",
+    "is_local" : false,
+    "name" : "GAY 4 ME (feat. Lauren Sanderson)",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/34c632a8a0db3781ada35fa937580643496b386c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1ZpcR68PKaoz8DpQDRqFEE"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2czQ8vG4i3wBWxfsAt4yqw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2czQ8vG4i3wBWxfsAt4yqw",
+        "id" : "2czQ8vG4i3wBWxfsAt4yqw",
+        "name" : "Elliot Root",
+        "type" : "artist",
+        "uri" : "spotify:artist:2czQ8vG4i3wBWxfsAt4yqw"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/21bHaOy9Gsbw9B2nC0o4Y1"
+      },
+      "href" : "https://api.spotify.com/v1/albums/21bHaOy9Gsbw9B2nC0o4Y1",
+      "id" : "21bHaOy9Gsbw9B2nC0o4Y1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27334bb48e057b974d1f629051b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0234bb48e057b974d1f629051b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485134bb48e057b974d1f629051b",
+        "width" : 64
+      } ],
+      "name" : "Thoughts From Yesterday",
+      "release_date" : "2015-05-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:21bHaOy9Gsbw9B2nC0o4Y1"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2czQ8vG4i3wBWxfsAt4yqw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2czQ8vG4i3wBWxfsAt4yqw",
+      "id" : "2czQ8vG4i3wBWxfsAt4yqw",
+      "name" : "Elliot Root",
+      "type" : "artist",
+      "uri" : "spotify:artist:2czQ8vG4i3wBWxfsAt4yqw"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 219133,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBMA21410940"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1nSWQ5Y7OcuGiWGdA1UYlr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1nSWQ5Y7OcuGiWGdA1UYlr",
+    "id" : "1nSWQ5Y7OcuGiWGdA1UYlr",
+    "is_local" : false,
+    "name" : "June, After Dark",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b3f226fbf44a2049e1e4b94246a594ea74c8c494?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1nSWQ5Y7OcuGiWGdA1UYlr"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+        "id" : "6KImCVD70vtIoJWnq6nGn3",
+        "name" : "Harry Styles",
+        "type" : "artist",
+        "uri" : "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5r36AJ6VOJtp00oxSkBZ5h",
+      "id" : "5r36AJ6VOJtp00oxSkBZ5h",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022e8ed79e177ff6011076f5f0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512e8ed79e177ff6011076f5f0",
+        "width" : 64
+      } ],
+      "name" : "Harry's House",
+      "release_date" : "2022-05-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5r36AJ6VOJtp00oxSkBZ5h"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+      "id" : "6KImCVD70vtIoJWnq6nGn3",
+      "name" : "Harry Styles",
+      "type" : "artist",
+      "uri" : "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 193813,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM12200609"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5LYMamLv12UPbemOaTPyeV",
+    "id" : "5LYMamLv12UPbemOaTPyeV",
+    "is_local" : false,
+    "name" : "Music For a Sushi Restaurant",
+    "popularity" : 84,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b362f060e5b9261aca193c58e694b1f097d2cd41?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5LYMamLv12UPbemOaTPyeV"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo"
+        },
+        "href" : "https://api.spotify.com/v1/artists/538TfjnJpRXI80MHYWfKlo",
+        "id" : "538TfjnJpRXI80MHYWfKlo",
+        "name" : "Feu! Chatterton",
+        "type" : "artist",
+        "uri" : "spotify:artist:538TfjnJpRXI80MHYWfKlo"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7lrBYSO9Rqnq7XPEHMNRtQ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7lrBYSO9Rqnq7XPEHMNRtQ",
+      "id" : "7lrBYSO9Rqnq7XPEHMNRtQ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730d533a2021c1bfb073164553",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020d533a2021c1bfb073164553",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510d533a2021c1bfb073164553",
+        "width" : 64
+      } ],
+      "name" : "L’oiseleur",
+      "release_date" : "2018-03-09",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:7lrBYSO9Rqnq7XPEHMNRtQ"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo"
+      },
+      "href" : "https://api.spotify.com/v1/artists/538TfjnJpRXI80MHYWfKlo",
+      "id" : "538TfjnJpRXI80MHYWfKlo",
+      "name" : "Feu! Chatterton",
+      "type" : "artist",
+      "uri" : "spotify:artist:538TfjnJpRXI80MHYWfKlo"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 201146,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRUM71702327"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0VfkVEH7OIqhYIGft4cRsJ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0VfkVEH7OIqhYIGft4cRsJ",
+    "id" : "0VfkVEH7OIqhYIGft4cRsJ",
+    "is_local" : false,
+    "name" : "Tes yeux verts",
+    "popularity" : 44,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d17c0d4503294508fe36067f968851b9c69feee5?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:0VfkVEH7OIqhYIGft4cRsJ"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6EB8VE9f7Ut6NOgviN6gDW",
+        "id" : "6EB8VE9f7Ut6NOgviN6gDW",
+        "name" : "Dawid Podsiadło",
+        "type" : "artist",
+        "uri" : "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3uRGqDcXI9lulUpYZ3ZFvj",
+      "id" : "3uRGqDcXI9lulUpYZ3ZFvj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737b0be3508536803e5ff5e0bb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027b0be3508536803e5ff5e0bb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517b0be3508536803e5ff5e0bb",
+        "width" : 64
+      } ],
+      "name" : "Lata Dwudzieste",
+      "release_date" : "2022-10-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3uRGqDcXI9lulUpYZ3ZFvj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EB8VE9f7Ut6NOgviN6gDW",
+      "id" : "6EB8VE9f7Ut6NOgviN6gDW",
+      "name" : "Dawid Podsiadło",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0GykMtlKoc68Hj2jwZLXul",
+      "id" : "0GykMtlKoc68Hj2jwZLXul",
+      "name" : "Nosowska",
+      "type" : "artist",
+      "uri" : "spotify:artist:0GykMtlKoc68Hj2jwZLXul"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 236346,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "PLL892200027"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/50qfAuiTpmx5HI4YvxUt2V"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/50qfAuiTpmx5HI4YvxUt2V",
+    "id" : "50qfAuiTpmx5HI4YvxUt2V",
+    "is_local" : false,
+    "name" : "awejniak",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ddd9d43a23eb6bf7e63f70bba95acc8869c63523?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 12,
+    "type" : "track",
+    "uri" : "spotify:track:50qfAuiTpmx5HI4YvxUt2V"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6EB8VE9f7Ut6NOgviN6gDW",
+        "id" : "6EB8VE9f7Ut6NOgviN6gDW",
+        "name" : "Dawid Podsiadło",
+        "type" : "artist",
+        "uri" : "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3uRGqDcXI9lulUpYZ3ZFvj",
+      "id" : "3uRGqDcXI9lulUpYZ3ZFvj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737b0be3508536803e5ff5e0bb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027b0be3508536803e5ff5e0bb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517b0be3508536803e5ff5e0bb",
+        "width" : 64
+      } ],
+      "name" : "Lata Dwudzieste",
+      "release_date" : "2022-10-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3uRGqDcXI9lulUpYZ3ZFvj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EB8VE9f7Ut6NOgviN6gDW",
+      "id" : "6EB8VE9f7Ut6NOgviN6gDW",
+      "name" : "Dawid Podsiadło",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 208960,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "PLL892200020"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0D4fkUwi4d7Ee0cNx7xx9z"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0D4fkUwi4d7Ee0cNx7xx9z",
+    "id" : "0D4fkUwi4d7Ee0cNx7xx9z",
+    "is_local" : false,
+    "name" : "Nie lubię Cię",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ade3ea85bef52f9d9ce1d9ca12ae8611e2c3044a?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:0D4fkUwi4d7Ee0cNx7xx9z"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6WFDpw4u23uSpon4BHvFRn",
+        "id" : "6WFDpw4u23uSpon4BHvFRn",
+        "name" : "Cat Burns",
+        "type" : "artist",
+        "uri" : "spotify:artist:6WFDpw4u23uSpon4BHvFRn"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6zMAsUOpcpxqOCjYAIku7C",
+      "id" : "6zMAsUOpcpxqOCjYAIku7C",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378f711930b2e124f883725b4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278f711930b2e124f883725b4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178f711930b2e124f883725b4",
+        "width" : 64
+      } ],
+      "name" : "people pleaser / sleep at night",
+      "release_date" : "2022-10-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:6zMAsUOpcpxqOCjYAIku7C"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6WFDpw4u23uSpon4BHvFRn",
+      "id" : "6WFDpw4u23uSpon4BHvFRn",
+      "name" : "Cat Burns",
+      "type" : "artist",
+      "uri" : "spotify:artist:6WFDpw4u23uSpon4BHvFRn"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 146654,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBARL2201912"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3UEOT0hD60yGB1OMWJxLQ8",
+    "id" : "3UEOT0hD60yGB1OMWJxLQ8",
+    "is_local" : false,
+    "name" : "people pleaser",
+    "popularity" : 67,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b6398ee224ed43db1fa4e0e58984d68ec9e3d77d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3UEOT0hD60yGB1OMWJxLQ8"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6WFDpw4u23uSpon4BHvFRn",
+        "id" : "6WFDpw4u23uSpon4BHvFRn",
+        "name" : "Cat Burns",
+        "type" : "artist",
+        "uri" : "spotify:artist:6WFDpw4u23uSpon4BHvFRn"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3IdEptw0LPQv9qNLbxkdAU",
+      "id" : "3IdEptw0LPQv9qNLbxkdAU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d63606c261f7d212d4ee9a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d63606c261f7d212d4ee9a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d63606c261f7d212d4ee9a",
+        "width" : 64
+      } ],
+      "name" : "emotionally unavailable",
+      "release_date" : "2022-05-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:3IdEptw0LPQv9qNLbxkdAU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6WFDpw4u23uSpon4BHvFRn",
+      "id" : "6WFDpw4u23uSpon4BHvFRn",
+      "name" : "Cat Burns",
+      "type" : "artist",
+      "uri" : "spotify:artist:6WFDpw4u23uSpon4BHvFRn"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 144371,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBARL2201154"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0k1xTN30vqWpVlWjoDyeMW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0k1xTN30vqWpVlWjoDyeMW",
+    "id" : "0k1xTN30vqWpVlWjoDyeMW",
+    "is_local" : false,
+    "name" : "ghosting",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7b3341649789f96f0930e0ceba13765f79e07d60?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:0k1xTN30vqWpVlWjoDyeMW"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6EB8VE9f7Ut6NOgviN6gDW",
+        "id" : "6EB8VE9f7Ut6NOgviN6gDW",
+        "name" : "Dawid Podsiadło",
+        "type" : "artist",
+        "uri" : "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3uRGqDcXI9lulUpYZ3ZFvj",
+      "id" : "3uRGqDcXI9lulUpYZ3ZFvj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737b0be3508536803e5ff5e0bb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027b0be3508536803e5ff5e0bb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517b0be3508536803e5ff5e0bb",
+        "width" : 64
+      } ],
+      "name" : "Lata Dwudzieste",
+      "release_date" : "2022-10-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3uRGqDcXI9lulUpYZ3ZFvj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EB8VE9f7Ut6NOgviN6gDW",
+      "id" : "6EB8VE9f7Ut6NOgviN6gDW",
+      "name" : "Dawid Podsiadło",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 219466,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "PLL892200024"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0K0r4umLd6ssfXIu1MjjYI"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0K0r4umLd6ssfXIu1MjjYI",
+    "id" : "0K0r4umLd6ssfXIu1MjjYI",
+    "is_local" : false,
+    "name" : "D I A B L E",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/c598b480a5e0a3b805b0970c7d431f194862ae35?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:0K0r4umLd6ssfXIu1MjjYI"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6EB8VE9f7Ut6NOgviN6gDW",
+        "id" : "6EB8VE9f7Ut6NOgviN6gDW",
+        "name" : "Dawid Podsiadło",
+        "type" : "artist",
+        "uri" : "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3uRGqDcXI9lulUpYZ3ZFvj",
+      "id" : "3uRGqDcXI9lulUpYZ3ZFvj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737b0be3508536803e5ff5e0bb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027b0be3508536803e5ff5e0bb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517b0be3508536803e5ff5e0bb",
+        "width" : 64
+      } ],
+      "name" : "Lata Dwudzieste",
+      "release_date" : "2022-10-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3uRGqDcXI9lulUpYZ3ZFvj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EB8VE9f7Ut6NOgviN6gDW",
+      "id" : "6EB8VE9f7Ut6NOgviN6gDW",
+      "name" : "Dawid Podsiadło",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 210826,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "PLL892200018"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0oYqfYHqP2O9V3ISCQ8MMN"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0oYqfYHqP2O9V3ISCQ8MMN",
+    "id" : "0oYqfYHqP2O9V3ISCQ8MMN",
+    "is_local" : false,
+    "name" : "TAZOSy",
+    "popularity" : 61,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b26447d642e8f21e95dcd7340c3fba1e552dad20?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:0oYqfYHqP2O9V3ISCQ8MMN"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6EB8VE9f7Ut6NOgviN6gDW",
+        "id" : "6EB8VE9f7Ut6NOgviN6gDW",
+        "name" : "Dawid Podsiadło",
+        "type" : "artist",
+        "uri" : "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3uRGqDcXI9lulUpYZ3ZFvj",
+      "id" : "3uRGqDcXI9lulUpYZ3ZFvj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737b0be3508536803e5ff5e0bb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027b0be3508536803e5ff5e0bb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517b0be3508536803e5ff5e0bb",
+        "width" : 64
+      } ],
+      "name" : "Lata Dwudzieste",
+      "release_date" : "2022-10-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3uRGqDcXI9lulUpYZ3ZFvj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EB8VE9f7Ut6NOgviN6gDW",
+      "id" : "6EB8VE9f7Ut6NOgviN6gDW",
+      "name" : "Dawid Podsiadło",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 232680,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "PLL892200019"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1LnwlSer3ls18ishQPDIJb"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1LnwlSer3ls18ishQPDIJb",
+    "id" : "1LnwlSer3ls18ishQPDIJb",
+    "is_local" : false,
+    "name" : "Halo",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/11dddb358fb8e77b79c4e41cf9495d83ecd58114?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:1LnwlSer3ls18ishQPDIJb"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+        "id" : "6KImCVD70vtIoJWnq6nGn3",
+        "name" : "Harry Styles",
+        "type" : "artist",
+        "uri" : "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5r36AJ6VOJtp00oxSkBZ5h",
+      "id" : "5r36AJ6VOJtp00oxSkBZ5h",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022e8ed79e177ff6011076f5f0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512e8ed79e177ff6011076f5f0",
+        "width" : 64
+      } ],
+      "name" : "Harry's House",
+      "release_date" : "2022-05-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5r36AJ6VOJtp00oxSkBZ5h"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+      "id" : "6KImCVD70vtIoJWnq6nGn3",
+      "name" : "Harry Styles",
+      "type" : "artist",
+      "uri" : "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 177954,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM12200610"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1qEmFfgcLObUfQm0j1W2CK",
+    "id" : "1qEmFfgcLObUfQm0j1W2CK",
+    "is_local" : false,
+    "name" : "Late Night Talking",
+    "popularity" : 92,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ab3568a72e1c016308c263854dc307251ce33a2b?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:1qEmFfgcLObUfQm0j1W2CK"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6EB8VE9f7Ut6NOgviN6gDW",
+        "id" : "6EB8VE9f7Ut6NOgviN6gDW",
+        "name" : "Dawid Podsiadło",
+        "type" : "artist",
+        "uri" : "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3uRGqDcXI9lulUpYZ3ZFvj",
+      "id" : "3uRGqDcXI9lulUpYZ3ZFvj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737b0be3508536803e5ff5e0bb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027b0be3508536803e5ff5e0bb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517b0be3508536803e5ff5e0bb",
+        "width" : 64
+      } ],
+      "name" : "Lata Dwudzieste",
+      "release_date" : "2022-10-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3uRGqDcXI9lulUpYZ3ZFvj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EB8VE9f7Ut6NOgviN6gDW",
+      "id" : "6EB8VE9f7Ut6NOgviN6gDW",
+      "name" : "Dawid Podsiadło",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 194826,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "PLL892200025"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2yxPqxHbj1L7vrCpHLtAcG"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2yxPqxHbj1L7vrCpHLtAcG",
+    "id" : "2yxPqxHbj1L7vrCpHLtAcG",
+    "is_local" : false,
+    "name" : "mori",
+    "popularity" : 62,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7d8d1581f1102cc873464250bfad3a8ad175793d?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:2yxPqxHbj1L7vrCpHLtAcG"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6WFDpw4u23uSpon4BHvFRn",
+        "id" : "6WFDpw4u23uSpon4BHvFRn",
+        "name" : "Cat Burns",
+        "type" : "artist",
+        "uri" : "spotify:artist:6WFDpw4u23uSpon4BHvFRn"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3IdEptw0LPQv9qNLbxkdAU",
+      "id" : "3IdEptw0LPQv9qNLbxkdAU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27378d63606c261f7d212d4ee9a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0278d63606c261f7d212d4ee9a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485178d63606c261f7d212d4ee9a",
+        "width" : 64
+      } ],
+      "name" : "emotionally unavailable",
+      "release_date" : "2022-05-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:3IdEptw0LPQv9qNLbxkdAU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6WFDpw4u23uSpon4BHvFRn",
+      "id" : "6WFDpw4u23uSpon4BHvFRn",
+      "name" : "Cat Burns",
+      "type" : "artist",
+      "uri" : "spotify:artist:6WFDpw4u23uSpon4BHvFRn"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 182958,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBARL2201155"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/43ZTfozcXRTukqENA3TXqe",
+    "id" : "43ZTfozcXRTukqENA3TXqe",
+    "is_local" : false,
+    "name" : "we're not kids anymore",
+    "popularity" : 63,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0afceef9cc1354e41995a737fc5187911bfd013c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:43ZTfozcXRTukqENA3TXqe"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+        "id" : "6KImCVD70vtIoJWnq6nGn3",
+        "name" : "Harry Styles",
+        "type" : "artist",
+        "uri" : "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5r36AJ6VOJtp00oxSkBZ5h",
+      "id" : "5r36AJ6VOJtp00oxSkBZ5h",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022e8ed79e177ff6011076f5f0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512e8ed79e177ff6011076f5f0",
+        "width" : 64
+      } ],
+      "name" : "Harry's House",
+      "release_date" : "2022-05-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5r36AJ6VOJtp00oxSkBZ5h"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+      "id" : "6KImCVD70vtIoJWnq6nGn3",
+      "name" : "Harry Styles",
+      "type" : "artist",
+      "uri" : "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 191958,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM12200611"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4j6kId9QIqhoXvqHKgSKa0",
+    "id" : "4j6kId9QIqhoXvqHKgSKa0",
+    "is_local" : false,
+    "name" : "Grapejuice",
+    "popularity" : 79,
+    "preview_url" : "https://p.scdn.co/mp3-preview/71e626d72bda1f0fd57e5405105d1db313b0c495?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:4j6kId9QIqhoXvqHKgSKa0"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6tuN5TDLCTbsmyE1FJMA2Q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6tuN5TDLCTbsmyE1FJMA2Q",
+        "id" : "6tuN5TDLCTbsmyE1FJMA2Q",
+        "name" : "SOULGRABBER",
+        "type" : "artist",
+        "uri" : "spotify:artist:6tuN5TDLCTbsmyE1FJMA2Q"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2mB553VJJ46D5lO9yGWkPf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2mB553VJJ46D5lO9yGWkPf",
+      "id" : "2mB553VJJ46D5lO9yGWkPf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736424e50a4edaaeb3729da569",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026424e50a4edaaeb3729da569",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516424e50a4edaaeb3729da569",
+        "width" : 64
+      } ],
+      "name" : "my money dont jiggle jiggle, it falls",
+      "release_date" : "1960-02-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2mB553VJJ46D5lO9yGWkPf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6tuN5TDLCTbsmyE1FJMA2Q"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6tuN5TDLCTbsmyE1FJMA2Q",
+      "id" : "6tuN5TDLCTbsmyE1FJMA2Q",
+      "name" : "SOULGRABBER",
+      "type" : "artist",
+      "uri" : "spotify:artist:6tuN5TDLCTbsmyE1FJMA2Q"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 96304,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "AEA2M2234503"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4suCwJOOBSCCyaFkcqmUb7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4suCwJOOBSCCyaFkcqmUb7",
+    "id" : "4suCwJOOBSCCyaFkcqmUb7",
+    "is_local" : false,
+    "name" : "my money dont jiggle jiggle, it falls",
+    "popularity" : 11,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4suCwJOOBSCCyaFkcqmUb7"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2Lp4rVUJ5ZRZfT8wkWF81K",
+        "id" : "2Lp4rVUJ5ZRZfT8wkWF81K",
+        "name" : "Dawid Tyszkowski",
+        "type" : "artist",
+        "uri" : "spotify:artist:2Lp4rVUJ5ZRZfT8wkWF81K"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0GY7Jpt1L0C891A5WdgUPe"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0GY7Jpt1L0C891A5WdgUPe",
+      "id" : "0GY7Jpt1L0C891A5WdgUPe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730a09561434b4790d27c161be",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020a09561434b4790d27c161be",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510a09561434b4790d27c161be",
+        "width" : 64
+      } ],
+      "name" : "Koszulka",
+      "release_date" : "2022-04-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0GY7Jpt1L0C891A5WdgUPe"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2Lp4rVUJ5ZRZfT8wkWF81K",
+      "id" : "2Lp4rVUJ5ZRZfT8wkWF81K",
+      "name" : "Dawid Tyszkowski",
+      "type" : "artist",
+      "uri" : "spotify:artist:2Lp4rVUJ5ZRZfT8wkWF81K"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 252226,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "PLB172200057"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/58GULPDRRkVUMm2AKaBEMm"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/58GULPDRRkVUMm2AKaBEMm",
+    "id" : "58GULPDRRkVUMm2AKaBEMm",
+    "is_local" : false,
+    "name" : "Koszulka",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/830949ed211ec3d5ac665910640dbc085bd6d5b6?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:58GULPDRRkVUMm2AKaBEMm"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2jNxbYSRQ7pkrxVuOjES7n"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2jNxbYSRQ7pkrxVuOjES7n",
+        "id" : "2jNxbYSRQ7pkrxVuOjES7n",
+        "name" : "DJ BRK",
+        "type" : "artist",
+        "uri" : "spotify:artist:2jNxbYSRQ7pkrxVuOjES7n"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5XGkLMcwitYFdwroktQs7o",
+        "id" : "5XGkLMcwitYFdwroktQs7o",
+        "name" : "Vito Bambino",
+        "type" : "artist",
+        "uri" : "spotify:artist:5XGkLMcwitYFdwroktQs7o"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7FXTirgSWxaPY9k4mrYChs",
+        "id" : "7FXTirgSWxaPY9k4mrYChs",
+        "name" : "Miętha",
+        "type" : "artist",
+        "uri" : "spotify:artist:7FXTirgSWxaPY9k4mrYChs"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1o3CD2gw4sO4fNKUiEMauq"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1o3CD2gw4sO4fNKUiEMauq",
+      "id" : "1o3CD2gw4sO4fNKUiEMauq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27341e41bc1679c5b48dbaf045f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0241e41bc1679c5b48dbaf045f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485141e41bc1679c5b48dbaf045f",
+        "width" : 64
+      } ],
+      "name" : "Robię Co Mogę",
+      "release_date" : "2022-04-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1o3CD2gw4sO4fNKUiEMauq"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2jNxbYSRQ7pkrxVuOjES7n"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2jNxbYSRQ7pkrxVuOjES7n",
+      "id" : "2jNxbYSRQ7pkrxVuOjES7n",
+      "name" : "DJ BRK",
+      "type" : "artist",
+      "uri" : "spotify:artist:2jNxbYSRQ7pkrxVuOjES7n"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5XGkLMcwitYFdwroktQs7o",
+      "id" : "5XGkLMcwitYFdwroktQs7o",
+      "name" : "Vito Bambino",
+      "type" : "artist",
+      "uri" : "spotify:artist:5XGkLMcwitYFdwroktQs7o"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7FXTirgSWxaPY9k4mrYChs",
+      "id" : "7FXTirgSWxaPY9k4mrYChs",
+      "name" : "Miętha",
+      "type" : "artist",
+      "uri" : "spotify:artist:7FXTirgSWxaPY9k4mrYChs"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 213482,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "PLUM72200242"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4foecAj9LLmMn90Ykqlghp"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4foecAj9LLmMn90Ykqlghp",
+    "id" : "4foecAj9LLmMn90Ykqlghp",
+    "is_local" : false,
+    "name" : "Robię Co Mogę",
+    "popularity" : 54,
+    "preview_url" : "https://p.scdn.co/mp3-preview/10546705a08ac31b2d377a5dd7a1b2260c7ce7c7?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4foecAj9LLmMn90Ykqlghp"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6yXBFHhojjdwKoop55NsHf",
+        "id" : "6yXBFHhojjdwKoop55NsHf",
+        "name" : "Mild Orange",
+        "type" : "artist",
+        "uri" : "spotify:artist:6yXBFHhojjdwKoop55NsHf"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4jaLT2amEyHRGz1EdGyvUy"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4jaLT2amEyHRGz1EdGyvUy",
+      "id" : "4jaLT2amEyHRGz1EdGyvUy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738db9be88181b0684bbe2d5af",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028db9be88181b0684bbe2d5af",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518db9be88181b0684bbe2d5af",
+        "width" : 64
+      } ],
+      "name" : "Foreplay",
+      "release_date" : "2018-04-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:4jaLT2amEyHRGz1EdGyvUy"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6yXBFHhojjdwKoop55NsHf",
+      "id" : "6yXBFHhojjdwKoop55NsHf",
+      "name" : "Mild Orange",
+      "type" : "artist",
+      "uri" : "spotify:artist:6yXBFHhojjdwKoop55NsHf"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 236942,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NZAM01800561"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2azLXhIiperr1iUstbBog5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2azLXhIiperr1iUstbBog5",
+    "id" : "2azLXhIiperr1iUstbBog5",
+    "is_local" : false,
+    "name" : "Down By The River",
+    "popularity" : 35,
+    "preview_url" : null,
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:2azLXhIiperr1iUstbBog5"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1aSxMhuvixZ8h9dK9jIDwL",
+        "id" : "1aSxMhuvixZ8h9dK9jIDwL",
+        "name" : "Kate Bush",
+        "type" : "artist",
+        "uri" : "spotify:artist:1aSxMhuvixZ8h9dK9jIDwL"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5BWl0bB1q0TqyFmkBEupZy",
+      "id" : "5BWl0bB1q0TqyFmkBEupZy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27396ab64f52273635308b6bf27",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0296ab64f52273635308b6bf27",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485196ab64f52273635308b6bf27",
+        "width" : 64
+      } ],
+      "name" : "Hounds Of Love",
+      "release_date" : "1985",
+      "release_date_precision" : "year",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:5BWl0bB1q0TqyFmkBEupZy"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1aSxMhuvixZ8h9dK9jIDwL",
+      "id" : "1aSxMhuvixZ8h9dK9jIDwL",
+      "name" : "Kate Bush",
+      "type" : "artist",
+      "uri" : "spotify:artist:1aSxMhuvixZ8h9dK9jIDwL"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 298933,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBCNR8500002"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/75FEaRjZTKLhTrFGsfMUXR",
+    "id" : "75FEaRjZTKLhTrFGsfMUXR",
+    "is_local" : false,
+    "name" : "Running Up That Hill (A Deal With God)",
+    "popularity" : 89,
+    "preview_url" : "https://p.scdn.co/mp3-preview/16386d8d6335a6d86f6baae3e49d8cc9135485c2?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:75FEaRjZTKLhTrFGsfMUXR"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0fPzadE1XVPbRVP5qzes6r"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0fPzadE1XVPbRVP5qzes6r",
+        "id" : "0fPzadE1XVPbRVP5qzes6r",
+        "name" : "rosi",
+        "type" : "artist",
+        "uri" : "spotify:artist:0fPzadE1XVPbRVP5qzes6r"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0FwV4GizMmd84NcuYQFREy"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0FwV4GizMmd84NcuYQFREy",
+      "id" : "0FwV4GizMmd84NcuYQFREy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273130bcd3f4d24c668c39b4b91",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02130bcd3f4d24c668c39b4b91",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851130bcd3f4d24c668c39b4b91",
+        "width" : 64
+      } ],
+      "name" : "Off the Tracks",
+      "release_date" : "2021-10-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0FwV4GizMmd84NcuYQFREy"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0fPzadE1XVPbRVP5qzes6r"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0fPzadE1XVPbRVP5qzes6r",
+      "id" : "0fPzadE1XVPbRVP5qzes6r",
+      "name" : "rosi",
+      "type" : "artist",
+      "uri" : "spotify:artist:0fPzadE1XVPbRVP5qzes6r"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 264716,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "UK4MC2100551"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1TzamuEnLQSUaRYRN9Q8C7"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1TzamuEnLQSUaRYRN9Q8C7",
+    "id" : "1TzamuEnLQSUaRYRN9Q8C7",
+    "is_local" : false,
+    "name" : "Off the Tracks",
+    "popularity" : 39,
+    "preview_url" : "https://p.scdn.co/mp3-preview/346bad6fd2011700f8d4b71401626f7e80286f67?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:1TzamuEnLQSUaRYRN9Q8C7"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5veWh4nTWdpHw19pVDDEhq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5veWh4nTWdpHw19pVDDEhq",
+        "id" : "5veWh4nTWdpHw19pVDDEhq",
+        "name" : "Kabloonak",
+        "type" : "artist",
+        "uri" : "spotify:artist:5veWh4nTWdpHw19pVDDEhq"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6AO14cuUwZySFdQfqLVN8e"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6AO14cuUwZySFdQfqLVN8e",
+      "id" : "6AO14cuUwZySFdQfqLVN8e",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733aa11af67e42f908c1b96c04",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023aa11af67e42f908c1b96c04",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513aa11af67e42f908c1b96c04",
+        "width" : 64
+      } ],
+      "name" : "Kabloonak",
+      "release_date" : "2019-04-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 9,
+      "type" : "album",
+      "uri" : "spotify:album:6AO14cuUwZySFdQfqLVN8e"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5veWh4nTWdpHw19pVDDEhq"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5veWh4nTWdpHw19pVDDEhq",
+      "id" : "5veWh4nTWdpHw19pVDDEhq",
+      "name" : "Kabloonak",
+      "type" : "artist",
+      "uri" : "spotify:artist:5veWh4nTWdpHw19pVDDEhq"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 229920,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "LTC341900006"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2oYtchzmbRnPridKgcryZT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2oYtchzmbRnPridKgcryZT",
+    "id" : "2oYtchzmbRnPridKgcryZT",
+    "is_local" : false,
+    "name" : "Bruises on Her Legs",
+    "popularity" : 35,
+    "preview_url" : "https://p.scdn.co/mp3-preview/91c4ec19d3d7cfb466858fed2ebc3a7830fff101?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:2oYtchzmbRnPridKgcryZT"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6EB8VE9f7Ut6NOgviN6gDW",
+        "id" : "6EB8VE9f7Ut6NOgviN6gDW",
+        "name" : "Dawid Podsiadło",
+        "type" : "artist",
+        "uri" : "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3uRGqDcXI9lulUpYZ3ZFvj",
+      "id" : "3uRGqDcXI9lulUpYZ3ZFvj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737b0be3508536803e5ff5e0bb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027b0be3508536803e5ff5e0bb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517b0be3508536803e5ff5e0bb",
+        "width" : 64
+      } ],
+      "name" : "Lata Dwudzieste",
+      "release_date" : "2022-10-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3uRGqDcXI9lulUpYZ3ZFvj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EB8VE9f7Ut6NOgviN6gDW",
+      "id" : "6EB8VE9f7Ut6NOgviN6gDW",
+      "name" : "Dawid Podsiadło",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 221293,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "PLL892200028"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0O7gPfhWX4R1OkVk83obsl"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0O7gPfhWX4R1OkVk83obsl",
+    "id" : "0O7gPfhWX4R1OkVk83obsl",
+    "is_local" : false,
+    "name" : "Szarość i Róż",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/542000202e69a7707fd433a76adc4e865fb7e75e?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 13,
+    "type" : "track",
+    "uri" : "spotify:track:0O7gPfhWX4R1OkVk83obsl"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0TMvoNR0AIJV138mHY6jdE",
+        "id" : "0TMvoNR0AIJV138mHY6jdE",
+        "name" : "sanah",
+        "type" : "artist",
+        "uri" : "spotify:artist:0TMvoNR0AIJV138mHY6jdE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7G9ImTT4M1vC44tkVgtdQz"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7G9ImTT4M1vC44tkVgtdQz",
+      "id" : "7G9ImTT4M1vC44tkVgtdQz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c63b83170e1ff213d53d625a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c63b83170e1ff213d53d625a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c63b83170e1ff213d53d625a",
+        "width" : 64
+      } ],
+      "name" : "UCZTA",
+      "release_date" : "2022-04-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:7G9ImTT4M1vC44tkVgtdQz"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0TMvoNR0AIJV138mHY6jdE",
+      "id" : "0TMvoNR0AIJV138mHY6jdE",
+      "name" : "sanah",
+      "type" : "artist",
+      "uri" : "spotify:artist:0TMvoNR0AIJV138mHY6jdE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EB8VE9f7Ut6NOgviN6gDW",
+      "id" : "6EB8VE9f7Ut6NOgviN6gDW",
+      "name" : "Dawid Podsiadło",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 225767,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "PLA282200036"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2KTfSSKBBfMLXwDqrtoOE5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2KTfSSKBBfMLXwDqrtoOE5",
+    "id" : "2KTfSSKBBfMLXwDqrtoOE5",
+    "is_local" : false,
+    "name" : "ostatnia nadzieja",
+    "popularity" : 70,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a7acdcbc00b1cbee7a24eacff5f6463635fb1d96?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:2KTfSSKBBfMLXwDqrtoOE5"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+        "id" : "6KImCVD70vtIoJWnq6nGn3",
+        "name" : "Harry Styles",
+        "type" : "artist",
+        "uri" : "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5r36AJ6VOJtp00oxSkBZ5h",
+      "id" : "5r36AJ6VOJtp00oxSkBZ5h",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022e8ed79e177ff6011076f5f0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512e8ed79e177ff6011076f5f0",
+        "width" : 64
+      } ],
+      "name" : "Harry's House",
+      "release_date" : "2022-05-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5r36AJ6VOJtp00oxSkBZ5h"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+      "id" : "6KImCVD70vtIoJWnq6nGn3",
+      "name" : "Harry Styles",
+      "type" : "artist",
+      "uri" : "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 140241,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM12200618"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2NcQic8JxdjAlAHuNbOIRE",
+    "id" : "2NcQic8JxdjAlAHuNbOIRE",
+    "is_local" : false,
+    "name" : "Keep Driving",
+    "popularity" : 81,
+    "preview_url" : "https://p.scdn.co/mp3-preview/09ea3680de35c0030f202bf04787698557927bdb?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:2NcQic8JxdjAlAHuNbOIRE"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+        "id" : "6KImCVD70vtIoJWnq6nGn3",
+        "name" : "Harry Styles",
+        "type" : "artist",
+        "uri" : "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5r36AJ6VOJtp00oxSkBZ5h",
+      "id" : "5r36AJ6VOJtp00oxSkBZ5h",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022e8ed79e177ff6011076f5f0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512e8ed79e177ff6011076f5f0",
+        "width" : 64
+      } ],
+      "name" : "Harry's House",
+      "release_date" : "2022-05-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5r36AJ6VOJtp00oxSkBZ5h"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+      "id" : "6KImCVD70vtIoJWnq6nGn3",
+      "name" : "Harry Styles",
+      "type" : "artist",
+      "uri" : "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 243507,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM12200616"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/35TyJIMR3xRouUuo2sjS6v"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/35TyJIMR3xRouUuo2sjS6v",
+    "id" : "35TyJIMR3xRouUuo2sjS6v",
+    "is_local" : false,
+    "name" : "Cinema",
+    "popularity" : 79,
+    "preview_url" : "https://p.scdn.co/mp3-preview/062aabb5ca209241a4e10b7d028bc025e9e33bfd?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:35TyJIMR3xRouUuo2sjS6v"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1JV4iC1UhplRE8RFr8Q9n9",
+        "id" : "1JV4iC1UhplRE8RFr8Q9n9",
+        "name" : "Paradis",
+        "type" : "artist",
+        "uri" : "spotify:artist:1JV4iC1UhplRE8RFr8Q9n9"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4DtD9M009rhD0Q9QtBZvUP"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4DtD9M009rhD0Q9QtBZvUP",
+      "id" : "4DtD9M009rhD0Q9QtBZvUP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731c8a8c45fe4eeb0b21f461a1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021c8a8c45fe4eeb0b21f461a1",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511c8a8c45fe4eeb0b21f461a1",
+        "width" : 64
+      } ],
+      "name" : "Recto Verso",
+      "release_date" : "2016-09-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:4DtD9M009rhD0Q9QtBZvUP"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1JV4iC1UhplRE8RFr8Q9n9",
+      "id" : "1JV4iC1UhplRE8RFr8Q9n9",
+      "name" : "Paradis",
+      "type" : "artist",
+      "uri" : "spotify:artist:1JV4iC1UhplRE8RFr8Q9n9"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 220853,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRUM71600073"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3AVyKOmMgvRjsC576xWw78"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3AVyKOmMgvRjsC576xWw78",
+    "id" : "3AVyKOmMgvRjsC576xWw78",
+    "is_local" : false,
+    "name" : "Toi Et Moi",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1d4c178973731ff1a7f6ea3ab09ee3508960bcf5?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:3AVyKOmMgvRjsC576xWw78"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6EB8VE9f7Ut6NOgviN6gDW",
+        "id" : "6EB8VE9f7Ut6NOgviN6gDW",
+        "name" : "Dawid Podsiadło",
+        "type" : "artist",
+        "uri" : "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3uRGqDcXI9lulUpYZ3ZFvj",
+      "id" : "3uRGqDcXI9lulUpYZ3ZFvj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737b0be3508536803e5ff5e0bb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027b0be3508536803e5ff5e0bb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517b0be3508536803e5ff5e0bb",
+        "width" : 64
+      } ],
+      "name" : "Lata Dwudzieste",
+      "release_date" : "2022-10-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3uRGqDcXI9lulUpYZ3ZFvj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EB8VE9f7Ut6NOgviN6gDW",
+      "id" : "6EB8VE9f7Ut6NOgviN6gDW",
+      "name" : "Dawid Podsiadło",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0TMvoNR0AIJV138mHY6jdE",
+      "id" : "0TMvoNR0AIJV138mHY6jdE",
+      "name" : "sanah",
+      "type" : "artist",
+      "uri" : "spotify:artist:0TMvoNR0AIJV138mHY6jdE"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 205600,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "PLL892200021"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3DT74w83RPPACZ2TvqX5PY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3DT74w83RPPACZ2TvqX5PY",
+    "id" : "3DT74w83RPPACZ2TvqX5PY",
+    "is_local" : false,
+    "name" : "O czym śnisz?",
+    "popularity" : 60,
+    "preview_url" : "https://p.scdn.co/mp3-preview/97358f33aa7cec46109325c6a4a202f15b90ec8b?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:3DT74w83RPPACZ2TvqX5PY"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+        "id" : "6KImCVD70vtIoJWnq6nGn3",
+        "name" : "Harry Styles",
+        "type" : "artist",
+        "uri" : "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5r36AJ6VOJtp00oxSkBZ5h",
+      "id" : "5r36AJ6VOJtp00oxSkBZ5h",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022e8ed79e177ff6011076f5f0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512e8ed79e177ff6011076f5f0",
+        "width" : 64
+      } ],
+      "name" : "Harry's House",
+      "release_date" : "2022-05-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5r36AJ6VOJtp00oxSkBZ5h"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+      "id" : "6KImCVD70vtIoJWnq6nGn3",
+      "name" : "Harry Styles",
+      "type" : "artist",
+      "uri" : "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 167303,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM12200612"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4Dvkj6JhhA12EX05fT7y2e",
+    "id" : "4Dvkj6JhhA12EX05fT7y2e",
+    "is_local" : false,
+    "name" : "As It Was",
+    "popularity" : 92,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f0c2adc40766cd8c1ec3f2bc6e1cc293a77ba684?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:4Dvkj6JhhA12EX05fT7y2e"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6EB8VE9f7Ut6NOgviN6gDW",
+        "id" : "6EB8VE9f7Ut6NOgviN6gDW",
+        "name" : "Dawid Podsiadło",
+        "type" : "artist",
+        "uri" : "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3uRGqDcXI9lulUpYZ3ZFvj",
+      "id" : "3uRGqDcXI9lulUpYZ3ZFvj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737b0be3508536803e5ff5e0bb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027b0be3508536803e5ff5e0bb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517b0be3508536803e5ff5e0bb",
+        "width" : 64
+      } ],
+      "name" : "Lata Dwudzieste",
+      "release_date" : "2022-10-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3uRGqDcXI9lulUpYZ3ZFvj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EB8VE9f7Ut6NOgviN6gDW",
+      "id" : "6EB8VE9f7Ut6NOgviN6gDW",
+      "name" : "Dawid Podsiadło",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 219853,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "PLL892200022"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4te0YWCyaIcU5uSvAaEY2k"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4te0YWCyaIcU5uSvAaEY2k",
+    "id" : "4te0YWCyaIcU5uSvAaEY2k",
+    "is_local" : false,
+    "name" : "Blant",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0fe2781a88ce5bc9ef1c646cc6a0409189b56624?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:4te0YWCyaIcU5uSvAaEY2k"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6WFDpw4u23uSpon4BHvFRn",
+        "id" : "6WFDpw4u23uSpon4BHvFRn",
+        "name" : "Cat Burns",
+        "type" : "artist",
+        "uri" : "spotify:artist:6WFDpw4u23uSpon4BHvFRn"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4Siyzg8kWayQfPQsPSl6JI",
+        "id" : "4Siyzg8kWayQfPQsPSl6JI",
+        "name" : "Shermanology",
+        "type" : "artist",
+        "uri" : "spotify:artist:4Siyzg8kWayQfPQsPSl6JI"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2tCJKlOzHb1cBYcDyt1mrK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2tCJKlOzHb1cBYcDyt1mrK",
+      "id" : "2tCJKlOzHb1cBYcDyt1mrK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273a881619857a34eea6280ae98",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02a881619857a34eea6280ae98",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851a881619857a34eea6280ae98",
+        "width" : 64
+      } ],
+      "name" : "Free (Shermanology Remix)",
+      "release_date" : "2022-07-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:2tCJKlOzHb1cBYcDyt1mrK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6WFDpw4u23uSpon4BHvFRn",
+      "id" : "6WFDpw4u23uSpon4BHvFRn",
+      "name" : "Cat Burns",
+      "type" : "artist",
+      "uri" : "spotify:artist:6WFDpw4u23uSpon4BHvFRn"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 217034,
+    "explicit" : true,
+    "external_ids" : {
+      "isrc" : "GBARL2101926"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4wH7TubRLsig5fHjiwx0NU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4wH7TubRLsig5fHjiwx0NU",
+    "id" : "4wH7TubRLsig5fHjiwx0NU",
+    "is_local" : false,
+    "name" : "Free",
+    "popularity" : 36,
+    "preview_url" : "https://p.scdn.co/mp3-preview/82f68f579a8a4cddbcbd6c167f4ed5392b0a8f8b?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4wH7TubRLsig5fHjiwx0NU"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+        "id" : "6KImCVD70vtIoJWnq6nGn3",
+        "name" : "Harry Styles",
+        "type" : "artist",
+        "uri" : "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5r36AJ6VOJtp00oxSkBZ5h",
+      "id" : "5r36AJ6VOJtp00oxSkBZ5h",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022e8ed79e177ff6011076f5f0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512e8ed79e177ff6011076f5f0",
+        "width" : 64
+      } ],
+      "name" : "Harry's House",
+      "release_date" : "2022-05-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5r36AJ6VOJtp00oxSkBZ5h"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+      "id" : "6KImCVD70vtIoJWnq6nGn3",
+      "name" : "Harry Styles",
+      "type" : "artist",
+      "uri" : "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 164533,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM12200613"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/51Zw1cKDgkad0CXv23HCMU",
+    "id" : "51Zw1cKDgkad0CXv23HCMU",
+    "is_local" : false,
+    "name" : "Daylight",
+    "popularity" : 83,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9b28d8c4c2becdac3115eb7cba9680ef34bf64ab?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:51Zw1cKDgkad0CXv23HCMU"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6EB8VE9f7Ut6NOgviN6gDW",
+        "id" : "6EB8VE9f7Ut6NOgviN6gDW",
+        "name" : "Dawid Podsiadło",
+        "type" : "artist",
+        "uri" : "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3uRGqDcXI9lulUpYZ3ZFvj",
+      "id" : "3uRGqDcXI9lulUpYZ3ZFvj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737b0be3508536803e5ff5e0bb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027b0be3508536803e5ff5e0bb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517b0be3508536803e5ff5e0bb",
+        "width" : 64
+      } ],
+      "name" : "Lata Dwudzieste",
+      "release_date" : "2022-10-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3uRGqDcXI9lulUpYZ3ZFvj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EB8VE9f7Ut6NOgviN6gDW",
+      "id" : "6EB8VE9f7Ut6NOgviN6gDW",
+      "name" : "Dawid Podsiadło",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 221853,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "PLL892200026"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5EUUrt6DYirGyFtm1tbOVp"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5EUUrt6DYirGyFtm1tbOVp",
+    "id" : "5EUUrt6DYirGyFtm1tbOVp",
+    "is_local" : false,
+    "name" : "millenium",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/0f3e4ba5f3dfdf40be11c1feaedcee7271a2588c?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 11,
+    "type" : "track",
+    "uri" : "spotify:track:5EUUrt6DYirGyFtm1tbOVp"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2MRE0EnE3kUdMOsOGeBSG3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2MRE0EnE3kUdMOsOGeBSG3",
+        "id" : "2MRE0EnE3kUdMOsOGeBSG3",
+        "name" : "Scribbles Who",
+        "type" : "artist",
+        "uri" : "spotify:artist:2MRE0EnE3kUdMOsOGeBSG3"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0p0W4z5c3Lbdrun2uiuPXa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0p0W4z5c3Lbdrun2uiuPXa",
+      "id" : "0p0W4z5c3Lbdrun2uiuPXa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273adf22ab53b30007e93f4d426",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02adf22ab53b30007e93f4d426",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851adf22ab53b30007e93f4d426",
+        "width" : 64
+      } ],
+      "name" : "getit",
+      "release_date" : "2021-10-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0p0W4z5c3Lbdrun2uiuPXa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2MRE0EnE3kUdMOsOGeBSG3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2MRE0EnE3kUdMOsOGeBSG3",
+      "id" : "2MRE0EnE3kUdMOsOGeBSG3",
+      "name" : "Scribbles Who",
+      "type" : "artist",
+      "uri" : "spotify:artist:2MRE0EnE3kUdMOsOGeBSG3"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 178369,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZMER2184583"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5FQNon2385HvozRAM2ML5x"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5FQNon2385HvozRAM2ML5x",
+    "id" : "5FQNon2385HvozRAM2ML5x",
+    "is_local" : false,
+    "name" : "getit",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/78fac1756677b045c165252fdc60b4bd74d35e54?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5FQNon2385HvozRAM2ML5x"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6EB8VE9f7Ut6NOgviN6gDW",
+        "id" : "6EB8VE9f7Ut6NOgviN6gDW",
+        "name" : "Dawid Podsiadło",
+        "type" : "artist",
+        "uri" : "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3uRGqDcXI9lulUpYZ3ZFvj",
+      "id" : "3uRGqDcXI9lulUpYZ3ZFvj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737b0be3508536803e5ff5e0bb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027b0be3508536803e5ff5e0bb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517b0be3508536803e5ff5e0bb",
+        "width" : 64
+      } ],
+      "name" : "Lata Dwudzieste",
+      "release_date" : "2022-10-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3uRGqDcXI9lulUpYZ3ZFvj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EB8VE9f7Ut6NOgviN6gDW",
+      "id" : "6EB8VE9f7Ut6NOgviN6gDW",
+      "name" : "Dawid Podsiadło",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 215453,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "PLL892200023"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5GdFPcbGDQqtbVO2jl6Ez5"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5GdFPcbGDQqtbVO2jl6Ez5",
+    "id" : "5GdFPcbGDQqtbVO2jl6Ez5",
+    "is_local" : false,
+    "name" : "To co masz Ty!",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/6459e7351a41615bc796ff55704af4c4321ca5bd?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:5GdFPcbGDQqtbVO2jl6Ez5"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6yXBFHhojjdwKoop55NsHf",
+        "id" : "6yXBFHhojjdwKoop55NsHf",
+        "name" : "Mild Orange",
+        "type" : "artist",
+        "uri" : "spotify:artist:6yXBFHhojjdwKoop55NsHf"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4jaLT2amEyHRGz1EdGyvUy"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4jaLT2amEyHRGz1EdGyvUy",
+      "id" : "4jaLT2amEyHRGz1EdGyvUy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738db9be88181b0684bbe2d5af",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028db9be88181b0684bbe2d5af",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518db9be88181b0684bbe2d5af",
+        "width" : 64
+      } ],
+      "name" : "Foreplay",
+      "release_date" : "2018-04-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:4jaLT2amEyHRGz1EdGyvUy"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6yXBFHhojjdwKoop55NsHf",
+      "id" : "6yXBFHhojjdwKoop55NsHf",
+      "name" : "Mild Orange",
+      "type" : "artist",
+      "uri" : "spotify:artist:6yXBFHhojjdwKoop55NsHf"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 231916,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NZAM01800659"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5xAXDpwl7usHk0aFzhwMZA"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5xAXDpwl7usHk0aFzhwMZA",
+    "id" : "5xAXDpwl7usHk0aFzhwMZA",
+    "is_local" : false,
+    "name" : "In The Living Room",
+    "popularity" : 29,
+    "preview_url" : null,
+    "track_number" : 9,
+    "type" : "track",
+    "uri" : "spotify:track:5xAXDpwl7usHk0aFzhwMZA"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+        "id" : "6KImCVD70vtIoJWnq6nGn3",
+        "name" : "Harry Styles",
+        "type" : "artist",
+        "uri" : "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5r36AJ6VOJtp00oxSkBZ5h",
+      "id" : "5r36AJ6VOJtp00oxSkBZ5h",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022e8ed79e177ff6011076f5f0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512e8ed79e177ff6011076f5f0",
+        "width" : 64
+      } ],
+      "name" : "Harry's House",
+      "release_date" : "2022-05-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5r36AJ6VOJtp00oxSkBZ5h"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+      "id" : "6KImCVD70vtIoJWnq6nGn3",
+      "name" : "Harry Styles",
+      "type" : "artist",
+      "uri" : "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 245964,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM12200615"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6uvh0In7u1Xn4HgxOfAn8O",
+    "id" : "6uvh0In7u1Xn4HgxOfAn8O",
+    "is_local" : false,
+    "name" : "Matilda",
+    "popularity" : 85,
+    "preview_url" : "https://p.scdn.co/mp3-preview/518523b38559457598c87bcd5765c0c1acbfbf32?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:6uvh0In7u1Xn4HgxOfAn8O"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6yXBFHhojjdwKoop55NsHf",
+        "id" : "6yXBFHhojjdwKoop55NsHf",
+        "name" : "Mild Orange",
+        "type" : "artist",
+        "uri" : "spotify:artist:6yXBFHhojjdwKoop55NsHf"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4jaLT2amEyHRGz1EdGyvUy"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4jaLT2amEyHRGz1EdGyvUy",
+      "id" : "4jaLT2amEyHRGz1EdGyvUy",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2738db9be88181b0684bbe2d5af",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e028db9be88181b0684bbe2d5af",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048518db9be88181b0684bbe2d5af",
+        "width" : 64
+      } ],
+      "name" : "Foreplay",
+      "release_date" : "2018-04-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:4jaLT2amEyHRGz1EdGyvUy"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6yXBFHhojjdwKoop55NsHf",
+      "id" : "6yXBFHhojjdwKoop55NsHf",
+      "name" : "Mild Orange",
+      "type" : "artist",
+      "uri" : "spotify:artist:6yXBFHhojjdwKoop55NsHf"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 291885,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "NZAM01800660"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/70eeMA8c2MM8eaa9msPtq4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/70eeMA8c2MM8eaa9msPtq4",
+    "id" : "70eeMA8c2MM8eaa9msPtq4",
+    "is_local" : false,
+    "name" : "Where Are We Now?",
+    "popularity" : 30,
+    "preview_url" : null,
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:70eeMA8c2MM8eaa9msPtq4"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6EB8VE9f7Ut6NOgviN6gDW",
+        "id" : "6EB8VE9f7Ut6NOgviN6gDW",
+        "name" : "Dawid Podsiadło",
+        "type" : "artist",
+        "uri" : "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3uRGqDcXI9lulUpYZ3ZFvj",
+      "id" : "3uRGqDcXI9lulUpYZ3ZFvj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737b0be3508536803e5ff5e0bb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027b0be3508536803e5ff5e0bb",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517b0be3508536803e5ff5e0bb",
+        "width" : 64
+      } ],
+      "name" : "Lata Dwudzieste",
+      "release_date" : "2022-10-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:3uRGqDcXI9lulUpYZ3ZFvj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6EB8VE9f7Ut6NOgviN6gDW",
+      "id" : "6EB8VE9f7Ut6NOgviN6gDW",
+      "name" : "Dawid Podsiadło",
+      "type" : "artist",
+      "uri" : "spotify:artist:6EB8VE9f7Ut6NOgviN6gDW"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 171973,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "PLL892100016"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7u3Nx6lqDYahtcAZ3T2XeY"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7u3Nx6lqDYahtcAZ3T2XeY",
+    "id" : "7u3Nx6lqDYahtcAZ3T2XeY",
+    "is_local" : false,
+    "name" : "POST",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ed868f8ffa24e15eaa6d2e04f241510a2ee828ee?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:7u3Nx6lqDYahtcAZ3T2XeY"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2Ghddt4G7272vYt4xOyYWm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2Ghddt4G7272vYt4xOyYWm",
+        "id" : "2Ghddt4G7272vYt4xOyYWm",
+        "name" : "Moon Panda",
+        "type" : "artist",
+        "uri" : "spotify:artist:2Ghddt4G7272vYt4xOyYWm"
+      } ],
+      "available_markets" : [ ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7HIKF4NB3La6mzbsrGnNpk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7HIKF4NB3La6mzbsrGnNpk",
+      "id" : "7HIKF4NB3La6mzbsrGnNpk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273084aee36f6d3ee99b0a4d264",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02084aee36f6d3ee99b0a4d264",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851084aee36f6d3ee99b0a4d264",
+        "width" : 64
+      } ],
+      "name" : "Call It Fate, Call It Karma",
+      "release_date" : "2020-09-11",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7HIKF4NB3La6mzbsrGnNpk"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Ghddt4G7272vYt4xOyYWm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2Ghddt4G7272vYt4xOyYWm",
+      "id" : "2Ghddt4G7272vYt4xOyYWm",
+      "name" : "Moon Panda",
+      "type" : "artist",
+      "uri" : "spotify:artist:2Ghddt4G7272vYt4xOyYWm"
+    } ],
+    "available_markets" : [ ],
+    "disc_number" : 1,
+    "duration_ms" : 240178,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBFFA2000031"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7KE70esZ78Omf0szQBGJ2V"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7KE70esZ78Omf0szQBGJ2V",
+    "id" : "7KE70esZ78Omf0szQBGJ2V",
+    "is_local" : false,
+    "name" : "Call It Fate, Call It Karma",
+    "popularity" : 29,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7KE70esZ78Omf0szQBGJ2V"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+        "id" : "6KImCVD70vtIoJWnq6nGn3",
+        "name" : "Harry Styles",
+        "type" : "artist",
+        "uri" : "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5r36AJ6VOJtp00oxSkBZ5h",
+      "id" : "5r36AJ6VOJtp00oxSkBZ5h",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e022e8ed79e177ff6011076f5f0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048512e8ed79e177ff6011076f5f0",
+        "width" : 64
+      } ],
+      "name" : "Harry's House",
+      "release_date" : "2022-05-20",
+      "release_date_precision" : "day",
+      "total_tracks" : 13,
+      "type" : "album",
+      "uri" : "spotify:album:5r36AJ6VOJtp00oxSkBZ5h"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+      "id" : "6KImCVD70vtIoJWnq6nGn3",
+      "name" : "Harry Styles",
+      "type" : "artist",
+      "uri" : "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 202183,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USSM12200614"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3i058E8uxTsYqJ5NWZzqSj",
+    "id" : "3i058E8uxTsYqJ5NWZzqSj",
+    "is_local" : false,
+    "name" : "Little Freak",
+    "popularity" : 83,
+    "preview_url" : "https://p.scdn.co/mp3-preview/88518a721baea74fa5dd7ddd69a8295af54b0871?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:3i058E8uxTsYqJ5NWZzqSj"
+  } ],
+  "total" : 50,
+  "limit" : 50,
+  "offset" : 0,
+  "href" : "https://api.spotify.com/v1/me/top/tracks?limit=50&offset=0",
+  "previous" : null,
+  "next" : null
+}

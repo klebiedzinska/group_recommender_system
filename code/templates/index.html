@@ -1,0 +1,30 @@
+{% extends "bootstrap/base.html" %}
+{% block title %}Choose users{% endblock %}
+
+{% block navbar %}
+<div class="navbar navbar-fixed-top">
+  <!-- ... -->
+</div>
+{% endblock %}
+
+{% block content %}
+    <div class="container">
+      <form method="POST" action="">
+        <fieldset class="form-group">
+          <legend class="border-bottom mb-4">Choose users</legend>
+          {% for field in form %}
+            {% if field.type == "BooleanField" %}
+              <div class="form-check">
+                {{ field(class="form-check-input") }}
+                {{ field.label(class="form-check-label") }}
+              </div>
+              {% endif %}
+            {% endfor %}
+        </fieldset>
+        <div class="form-group">
+          {{ form.submit(class="btn btn-outline-info") }}
+      </div>
+      </form>
+    </div>
+  
+{% endblock %}
